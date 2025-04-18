@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/admin/crud.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/authentication/checking_remembered.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/authentication/login.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/authentication/logout.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/authentication/register.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/authentication/save_for_next_login.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/candiate/crud.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ra/edu/sql/setup_database.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/technology/crud.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ra/edu/sql/technology/display.sql" dialect="MySQL" />
   </component>
 </project>
